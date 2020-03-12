@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f6d37bae-bb0d-4931-a751-fe8f17a0085b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>delete</find>
+      <find>0</find>
+      <find>1</find>
+      <find>echo</find>
+      <find>print</find>
+      <find>found</find>
+      <find>login_username</find>
+    </findStrings>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectId" id="1Z0tvDV73eaWmkRYpZtrc32b6Zt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../php/php.exe" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.php (1)">
+    <configuration name="index.php (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/SanketFinal/index.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/FirstCRUD/index.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.php (1)" />
+        <item itemvalue="JavaScript Debug.index.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6d37bae-bb0d-4931-a751-fe8f17a0085b" name="Default Changelist" comment="" />
+      <created>1541455686399</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541455686399</updated>
+      <workItem from="1541455687903" duration="30064000" />
+      <workItem from="1542083883441" duration="1410000" />
+      <workItem from="1542088373942" duration="9500000" />
+      <workItem from="1542240080414" duration="10875000" />
+      <workItem from="1542315026940" duration="22273000" />
+      <workItem from="1542516792964" duration="751000" />
+      <workItem from="1542519156676" duration="92000" />
+      <workItem from="1544485582208" duration="8462000" />
+      <workItem from="1544980046476" duration="568000" />
+      <workItem from="1544981572794" duration="1099000" />
+      <workItem from="1544983320223" duration="710000" />
+      <workItem from="1545146054162" duration="1171000" />
+      <workItem from="1545161693869" duration="1951000" />
+      <workItem from="1545174906054" duration="1304000" />
+      <workItem from="1545503944045" duration="730000" />
+      <workItem from="1583988073551" duration="82000" />
+      <workItem from="1583988208543" duration="2843000" />
+      <workItem from="1584020982725" duration="738000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="349" y="67" key="#CLI_Interpreters" timestamp="1583990345297">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="349" y="67" key="#CLI_Interpreters/0.0.1536.824@0.0.1536.824" timestamp="1583990345297" />
+    <state x="362" y="71" key="#Notifications" timestamp="1583988951575">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="362" y="71" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1583988951575" />
+    <state x="476" y="4" key="#PHP" timestamp="1583990218058">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="476" y="4" key="#PHP/0.0.1536.824@0.0.1536.824" timestamp="1583990218058" />
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1583990140919">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1583990140919" />
+    <state x="278" y="55" key="SettingsEditor" timestamp="1583990348266">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="278" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1583990348266" />
+    <state x="466" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1584020983347">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="466" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1584020983347" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/createNewRecord_DBINSERT.php</url>
+          <line>16</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
